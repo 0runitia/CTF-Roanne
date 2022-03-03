@@ -1,6 +1,8 @@
-Avoir symfony, php et composer d'installer
-Telecharger le projet 
-Deziper le
-Ouvrir le dossier dans CMD
-Taper : composer update
-Puis : symfony server:start
+1. Avoir symfony, php et composer d'installer
+2. Telecharger le projet 
+3. Deziper le
+4. Ouvrir le dossier dans CMD
+5. Taper : composer update
+6. Puis : symfony server:start
+
+Franck, Hugo, Adrien, Valentin
