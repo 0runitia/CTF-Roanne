@@ -1,0 +1,6 @@
+Avoir symfony, php et composer d'installer
+Telecharger le projet 
+Deziper le
+Ouvrir le dossier dans CMD
+Taper : composer update
+Puis : symfony server:start
